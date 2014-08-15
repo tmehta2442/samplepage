@@ -1,0 +1,1 @@
+This is a quick, 20 min, sample page.
